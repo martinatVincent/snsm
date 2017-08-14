@@ -675,9 +675,87 @@ h6,
 .theme-border {
   border: 1px solid #1e90ff;
 }
+#extCounters2-o SPAN {
+  color: #ff6600;
+}
 #features1-a .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #a38f84;
 }
+#extHeader15-i .display-2 {
+  color: #56a8f7;
+}
 #extFeatures13-f .etl-icon {
   color: #666666;
+}
+#social-buttons2-q .mbr-section-title,
+#social-buttons2-q .btn-social {
+  color: #232323;
+}
+#extMenu1-m .hide-buttons .nav-btn {
+  display: none !important;
+}
+#extMenu1-m .navbar-caption {
+  color: #ffffff;
+}
+#extMenu1-m .navbar-toggler {
+  color: #ffffff;
+}
+#extMenu1-m .close-icon::before,
+#extMenu1-m .close-icon::after {
+  background-color: #ffffff;
+}
+#extMenu1-m .link,
+#extMenu1-m .dropdown-item {
+  color: #ffffff;
+}
+#extMenu1-m .link {
+  font-size: 0.75rem;
+}
+#extMenu1-m .dropdown-item,
+#extMenu1-m .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#extMenu1-m .link:hover,
+#extMenu1-m .dropdown-item:hover,
+#extMenu1-m .link:focus,
+#extMenu1-m .dropdown-item:focus {
+  color: #1e90ff;
+}
+#extMenu1-m .link[aria-expanded="true"],
+#extMenu1-m .dropdown-menu {
+  background: #cc5200;
+}
+#extMenu1-m .nav-dropdown-sm .link:focus,
+#extMenu1-m .nav-dropdown-sm .link:hover,
+#extMenu1-m .nav-dropdown-sm .dropdown-item:focus,
+#extMenu1-m .nav-dropdown-sm .dropdown-item:hover {
+  background: #f06000!important;
+}
+#extMenu1-m .navbar,
+#extMenu1-m .nav-dropdown-sm,
+#extMenu1-m .nav-dropdown-sm .link[aria-expanded="true"],
+#extMenu1-m .nav-dropdown-sm .dropdown-menu {
+  background: #ff6600;
+}
+#extMenu1-m .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#extMenu1-m .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#extMenu1-m .bg-color.transparent.opened .link:hover,
+#extMenu1-m .bg-color.transparent.opened .link:focus {
+  color: #1e90ff;
+}
+#extMenu1-m .link[aria-expanded="true"],
+#extMenu1-m .dropdown-item[aria-expanded="true"] {
+  color: #1e90ff!important;
+}
+#extMenu1-m .innerEmail:hover,
+#extMenu1-m .innerPhone:hover {
+  color: #1e90ff;
+}
+#extMenu1-m SPAN {
+  color: #ffffff;
 }
