@@ -465,8 +465,8 @@
             "iconFont": {
               "class": "mbr-iconfont-features6",
               "linkInNewWindow": false,
-              "name": "life-safer",
-              "family": "iconsMind",
+              "name": "trophy",
+              "family": "FontAwesome",
               "active": true,
               "size": 0,
               "color": "#666666"
@@ -476,7 +476,7 @@
             "iconFont": {
               "class": "mbr-iconfont-features6",
               "linkInNewWindow": false,
-              "name": "calendar-check-o",
+              "name": "medkit",
               "family": "FontAwesome",
               "active": true,
               "size": 0,
@@ -487,8 +487,8 @@
             "iconFont": {
               "class": "mbr-iconfont-features6",
               "linkInNewWindow": false,
-              "name": "swimwear",
-              "family": "icon54",
+              "name": "life-bouy",
+              "family": "FontAwesome",
               "active": true,
               "size": 0,
               "color": "#666666"
