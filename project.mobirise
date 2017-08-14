@@ -107,7 +107,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/zodiaque-et-jet-rduit.-600x399.png",
+              "src": "@PROJECT_PATH@/assets/images/zodiaque%20et%20jet%20r%C3%A9duit.-600x399.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -119,7 +119,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sauvetage-poul-rduit-600x400.png",
+              "src": "@PROJECT_PATH@/assets/images/sauvetage%20poul%20r%C3%A9duit-600x400.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -131,7 +131,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gilet-sauvetage-rduit-600x400.png",
+              "src": "@PROJECT_PATH@/assets/images/gilet%20sauvetage%20r%C3%A9duitjpg-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -215,7 +215,7 @@
             "animText3": "Dévouement",
             "typeSpeed": 60,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader15-bg.jpg",
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader15_bg.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -494,7 +494,7 @@
           "_anchor": "social-buttons1-h"
         },
         {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "loadsvg": "@ADDONS_PATH@/social-feed/feed/assets/loading.svg",
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
