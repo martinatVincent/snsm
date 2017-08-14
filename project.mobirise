@@ -65,8 +65,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/rXxgwHLHVaw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/rXxgwHLHVaw",
+              "url": "https://www.youtube.com/embed/CxZklI97Q7k?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/embed/CxZklI97Q7k?rel=0&showinfo=0&autoplay=0&loop=0",
               "width": 1280,
               "height": 720
             },
@@ -328,8 +328,8 @@
             "bgColor": "#2e2e2e",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/CxZklI97Q7k?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=CxZklI97Q7k",
+              "url": "https://www.youtube.com/embed/rXxgwHLHVaw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/embed/rXxgwHLHVaw?rel=0&showinfo=0&autoplay=0&loop=0",
               "width": 1280,
               "height": 720
             },
