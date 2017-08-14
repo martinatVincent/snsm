@@ -685,11 +685,20 @@ h6,
   color: #56a8f7;
 }
 #extFeatures13-f .etl-icon {
-  color: #666666;
+  color: #cccccc;
+}
+#extFeatures13-f P {
+  color: #1e90ff;
 }
 #social-buttons2-q .mbr-section-title,
 #social-buttons2-q .btn-social {
   color: #232323;
+}
+#social-buttons2-q .mbr-section-title {
+  color: #ffffff;
+}
+#social-buttons1-h .mbr-section-title {
+  color: #ffffff;
 }
 #extMenu1-m .hide-buttons .nav-btn {
   display: none !important;

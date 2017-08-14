@@ -328,8 +328,8 @@
             "bgColor": "#2e2e2e",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.facebook.com/cfibayonne/videos/646158275522937/",
-              "rawUrl": "https://www.facebook.com/cfibayonne/videos/646158275522937/",
+              "url": "https://www.youtube.com/embed/CxZklI97Q7k?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=CxZklI97Q7k",
               "width": 1280,
               "height": 720
             },
@@ -394,7 +394,7 @@
             "showTitle": true,
             "showSubtitle": true,
             "showDates": true,
-            "iconsColor": "#666666",
+            "iconsColor": "#cccccc",
             "blocks": "7",
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -412,7 +412,7 @@
             "overlayOpacity": 0.5
           },
           "mainTitle": "Planning de la session 2017-2018",
-          "bottomTitle": "Sauveteur cet été &nbsp; :)",
+          "bottomTitle": "Sauveteur cet été 2018 &nbsp; :)",
           "mainSubtitle": "Voici les différentes étapes du futur sauveteur en mer",
           "title1": "1. Forum des Associations la Floride à Bayonne",
           "title2": "2. P.S.E.1 (Premiers Secours en Equipe de niveau 1)",
@@ -585,7 +585,10 @@
           "_anchor": "extFeatures13-f",
           "_styles": {
             ".etl-icon": {
-              "color": "#666666"
+              "color": "#cccccc"
+            },
+            "P": {
+              "color": "#1e90ff"
             }
           }
         },
@@ -593,6 +596,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -663,7 +669,12 @@
             "Theme"
           ],
           "_name": "social-buttons1",
-          "_anchor": "social-buttons1-h"
+          "_anchor": "social-buttons1-h",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_params": {
@@ -779,7 +790,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#extFeatures13-f\">Formation</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=DONS&amp;currency_code=EUR\">DONS</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#extFeatures13-f\">Formation</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=DONS&amp;currency_code=EUR\">DONS</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -796,7 +807,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SNSM CFI Côte Basque Landes</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SNSM CFI Côte Basque Landes</a>",
           "phone": "+33681402407",
           "email": "snsm.cfibayonne@gmail.com",
           "media1": {
