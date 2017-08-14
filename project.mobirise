@@ -53,11 +53,11 @@
         {
           "_inherit": "header1",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
             "showArrow": true,
-            "contentAlign": "left",
+            "contentAlign": "center",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -76,7 +76,7 @@
           },
           "title": "Devenez TOUS&nbsp;<br>Sauveteurs en mer &nbsp;!",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#extFeatures13-f\" data-toolbar=\"-mbrBtnMove\">SE FORMER POUR SAUVER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=Custom+Item&amp;currency_code=EUR\" data-toolbar=\"-mbrBtnMove\">FAIRE UN DON</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#extFeatures13-f\" data-toolbar=\"-mbrBtnMove\">SE FORMER POUR SAUVER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=Custom+Item&amp;currency_code=EUR\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-gift mbr-iconfont mbr-iconfont-btn\"></span>FAIRE UN DON</a> ",
           "_tags": [
             "Theme"
           ],
@@ -790,7 +790,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#extFeatures13-f\">Formation</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=DONS&amp;currency_code=EUR\">DONS</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#extFeatures13-f\"><span class=\"imind-swimming mbr-iconfont mbr-iconfont-btn\"></span>SE FORMER POUR SAUVER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=DONS&amp;currency_code=EUR\"><span class=\"mbri-gift mbr-iconfont mbr-iconfont-btn\"></span>FAIRE UN DON</a></li>",
           "logo": {
             "image": {
               "active": true,
