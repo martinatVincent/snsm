@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 28,
+    "uniqCompNum": 30,
     "versionPublish": "4.1.2",
     "favicon": "",
     "noImageResize": "",
@@ -52,84 +52,18 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showVideo": true,
-            "VideoUrl": "https://www.youtube.com/embed/CxZklI97Q7k?rel=0&showinfo=0&autoplay=0&loop=0",
-            "showArrow": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader5-bg.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.4
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/play-button.svg"
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "pencil",
-              "link": "#modalWindow",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "title": "INTRO WITH VIDEO POPUP",
-          "text": "Full-screen intro with background image and video popup. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "text2": "<label class=\"startPreset\" for=\"modal\">Watch Video</label>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "alias": "mobirise3-blocks/components",
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<iframe width=\"100%\" height=\"720\" src=\"https://www.youtube-nocookie.com/embed/CxZklI97Q7k?&amp;?rel=0amp;autoplay=1; controls=0&amp;showinfo=0\" frameborder=\"0\" allowfullscreen=\"\"></iframe>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
-          "_name": "extHeader5",
-          "_anchor": "extHeader5-r"
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "left",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-snsm-179x180.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/CxZklI97Q7k?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/embed/CxZklI97Q7k?rel=0&showinfo=0&autoplay=0&loop=0",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.1"
-          },
-          "title": "Devenez TOUS&nbsp;<br>Sauveteurs en mer &nbsp;!",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#extFeatures13-f\" data-toolbar=\"-mbrBtnMove\">SE FORMER POUR SAUVER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=Custom+Item&amp;currency_code=EUR\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-gift mbr-iconfont mbr-iconfont-btn\"></span>FAIRE UN DON</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header4",
-          "_anchor": "header4-1"
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-t",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_params": {
@@ -385,7 +319,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.6
           },
-          "title": "Nos valeurs:<br><br><br>",
+          "title": "",
           "title2": "<br><br>La prochaine vague de formation démarre bientôt !",
           "text": "Être Sauveteur en Mer, c’est un engagement fort et gratuit au service de la sauvegarde des vies humaines en mer et sur le littoral. <br>Depuis plus d’un siècle, les Sauveteurs en Mer interviennent bénévolement et gratuitement pour que la mer reste un formidable espace de liberté.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
@@ -433,7 +367,8 @@
           "_anchor": "extHeader15-i",
           "_styles": {
             ".display-2": {
-              "color": "#56a8f7"
+              "color": "#56a8f7",
+              "font-size": "25px"
             }
           }
         },
