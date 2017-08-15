@@ -521,8 +521,8 @@
             "iconFont": {
               "class": "mbr-iconfont-features6",
               "linkInNewWindow": false,
-              "name": "jet-ski",
-              "family": "icon54-v2",
+              "name": "sun2",
+              "family": "MobiriseIcons",
               "active": true,
               "size": 0,
               "color": "#ff6600"
