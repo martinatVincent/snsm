@@ -359,7 +359,7 @@
           },
           "title": "",
           "title2": "<br><br>La prochaine vague de formation démarre bientôt !",
-          "text": "Être Sauveteur en Mer, c’est un engagement fort et gratuit au service de la sauvegarde des vies humaines en mer et sur le littoral. <br>Depuis plus d’un siècle, les Sauveteurs en Mer interviennent bénévolement et gratuitement pour que la mer reste un formidable espace de liberté.",
+          "text": "Être Sauveteur en Mer, c’est un engagement fort au service de la sauvegarde des vies humaines en mer et sur le littoral. <br>Depuis plus d’un siècle, les Sauveteurs en Mer interviennent pour que la mer reste un formidable espace de liberté.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
           "media": {
             "image": {
@@ -406,7 +406,7 @@
           "_styles": {
             ".display-2": {
               "color": "#56a8f7",
-              "font-size": "25px"
+              "font-size": "60px"
             }
           }
         },
