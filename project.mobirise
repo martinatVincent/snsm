@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 30,
+    "uniqCompNum": 32,
     "versionPublish": "4.1.2",
     "favicon": "",
     "noImageResize": "",
@@ -52,18 +52,56 @@
       },
       "components": [
         {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<iframe width=\"100%\" height=\"720\" src=\"https://www.youtube-nocookie.com/embed/CxZklI97Q7k?&amp;?rel=0amp;autoplay=1; controls=0&amp;showinfo=0\" frameborder=\"0\" allowfullscreen=\"\"></iframe>",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
-          "alias": "code-editor",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showVideo": true,
+            "VideoUrl": "https://youtu.be/CxZklI97Q7k",
+            "showArrow": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/19042015-img-4-2000x1333.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.4
+          },
+          "media": {
+            "image": {
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/play-button.svg"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "youtube-play",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#1e90ff"
+            }
+          },
+          "title": "Bienvenue !<br>une petite vidéo d'intro",
+          "text": "Full-screen intro with background image and video popup. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "text2": "<label class=\"startPreset\" for=\"modal\">Regarde la Video</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#extCounters2-o\" data-toolbar=\"-mbrBtnMove\">en savoir plus</a>",
+          "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-t",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_name": "extHeader5",
+          "_anchor": "extHeader5-v",
+          "_styles": {
+            "LABEL": {
+              "color": "#1e90ff"
+            }
+          }
         },
         {
           "_params": {

@@ -675,11 +675,8 @@ h6,
 .theme-border {
   border: 1px solid #1e90ff;
 }
-#custom-html-t {
-  /* Type valid CSS here */
-}
-#custom-html-t .my-image {
-  width: 100%;
+#extHeader5-v LABEL {
+  color: #1e90ff;
 }
 #extCounters2-o SPAN {
   color: #ff6600;
