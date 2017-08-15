@@ -509,7 +509,7 @@
             "iconFont": {
               "class": "mbr-iconfont-extFeatures2",
               "linkInNewWindow": false,
-              "name": "walkie-talkie",
+              "name": "communication-tower",
               "family": "iconsMind",
               "active": true,
               "size": 0,
@@ -520,8 +520,8 @@
             "iconFont": {
               "class": "mbr-iconfont-features6",
               "linkInNewWindow": false,
-              "name": "sailboat",
-              "family": "icon54-v2",
+              "name": "bodybuilding",
+              "family": "iconsMind",
               "active": true,
               "size": 0,
               "color": "#666666"
@@ -790,7 +790,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#extFeatures13-f\"><span class=\"imind-swimming mbr-iconfont mbr-iconfont-btn\"></span>SE FORMER POUR SAUVER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=DONS&amp;currency_code=EUR\"><span class=\"mbri-gift mbr-iconfont mbr-iconfont-btn\"></span>FAIRE UN DON</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#extFeatures13-f\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>SE FORMER POUR SAUVER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=DONS&amp;currency_code=EUR\"><span class=\"icon54-v2-hold-heart mbr-iconfont mbr-iconfont-btn\"></span>FAIRE UN DON</a></li>",
           "logo": {
             "image": {
               "active": true,
