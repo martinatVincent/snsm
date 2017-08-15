@@ -25,7 +25,8 @@
         "#1e90ff",
         "#2e2e2e",
         "#56a8f7",
-        "#ffed22"
+        "#ffed22",
+        "#666666"
       ]
     },
     "versionFirst": "3.12.1",
@@ -57,9 +58,9 @@
             "showText": false,
             "showButtons": false,
             "showArrow": true,
-            "contentAlign": "center",
+            "contentAlign": "left",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-snsm-179x180.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -110,11 +111,11 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "life-safer",
-              "family": "iconsMind",
+              "name": "flag",
+              "family": "FontAwesome",
               "active": true,
               "link": "",
-              "size": 0,
+              "size": "70",
               "color": "#ffed22",
               "newWindow": false
             }
@@ -136,8 +137,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "love-user",
-              "family": "iconsMind",
+              "name": "star",
+              "family": "FontAwesome",
               "active": true,
               "link": "",
               "size": 0,
@@ -337,8 +338,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.6
           },
-          "title": "Nos valeurs :",
-          "title2": "La prochaine vague de formation démarre bientôt !",
+          "title": "Nos valeurs:<br><br><br>",
+          "title2": "<br><br>La prochaine vague de formation démarre bientôt !",
           "text": "Être Sauveteur en Mer, c’est un engagement fort et gratuit au service de la sauvegarde des vies humaines en mer et sur le littoral. <br>Depuis plus d’un siècle, les Sauveteurs en Mer interviennent bénévolement et gratuitement pour que la mer reste un formidable espace de liberté.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
           "media": {
@@ -458,7 +459,7 @@
               "family": "FontAwesome",
               "active": true,
               "size": 0,
-              "color": "#666666"
+              "color": "#ff6600"
             }
           },
           "media2": {
@@ -469,7 +470,7 @@
               "family": "FontAwesome",
               "active": true,
               "size": 0,
-              "color": "#666666"
+              "color": "#fac51c"
             }
           },
           "media3": {
@@ -480,7 +481,7 @@
               "family": "FontAwesome",
               "active": true,
               "size": 0,
-              "color": "#666666"
+              "color": "#ff6600"
             }
           },
           "media4": {
@@ -491,7 +492,7 @@
               "family": "FontAwesome",
               "active": true,
               "size": 0,
-              "color": "#666666"
+              "color": "#fac51c"
             }
           },
           "media5": {
@@ -502,29 +503,29 @@
               "family": "FontAwesome",
               "active": true,
               "size": 0,
-              "color": "#666666"
+              "color": "#ff6600"
             }
           },
           "media6": {
             "iconFont": {
               "class": "mbr-iconfont-extFeatures2",
               "linkInNewWindow": false,
-              "name": "communication-tower",
-              "family": "iconsMind",
+              "name": "signal",
+              "family": "FontAwesome",
               "active": true,
               "size": 0,
-              "color": "#666666"
+              "color": "#fac51c"
             }
           },
           "media7": {
             "iconFont": {
               "class": "mbr-iconfont-features6",
               "linkInNewWindow": false,
-              "name": "bodybuilding",
-              "family": "iconsMind",
+              "name": "jet-ski",
+              "family": "icon54-v2",
               "active": true,
               "size": 0,
-              "color": "#666666"
+              "color": "#ff6600"
             }
           },
           "media8": {
