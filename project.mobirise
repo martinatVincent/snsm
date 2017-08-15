@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "mobirise3",
+    "name": "SNSM CFI Landes Côte-Basque",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -35,7 +35,7 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "mcShopcart": {
       "email": "mail@vincentmartinat.com"
     }
@@ -932,8 +932,8 @@
         {
           "_params": {
             "googleMap": {
-              "address": "12, Avenue de l'Adour\n64600 Anglet",
-              "placeId": "ChIJE_Vl7EtAUQ0RIRw-byCP9PM",
+              "address": "snsm 12, Avenue de l'Adour\n64600 Anglet",
+              "placeId": "ChIJ3yHt5ktAUQ0RC90HUi59I8Q",
               "state": "ok",
               "stateDetails": ""
             }
