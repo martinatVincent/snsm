@@ -57,7 +57,7 @@
             "showText": false,
             "showButtons": true,
             "showVideo": true,
-            "VideoUrl": "hhttps://www.youtube.com/watch?v=CxZklI97Q7k",
+            "VideoUrl": "https://www.youtube.com/watch?v=CxZklI97Q7k",
             "showArrow": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/19042015-img-4-2000x1333.jpg",
@@ -74,7 +74,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "src": "@PROJECT_PATH@/assets/images/play-button.svg",
               "link": "https://www.youtube.com/watch?v=CxZklI97Q7k",
               "alt": "",
@@ -88,7 +87,8 @@
               "family": "FontAwesome",
               "link": "#modalWindow",
               "size": 0,
-              "color": "#1e90ff"
+              "color": "#1e90ff",
+              "active": true
             }
           },
           "title": "Bienvenue !<br>une petite vidéo d'intro",
