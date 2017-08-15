@@ -35,7 +35,7 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "cookiesAlert": "",
     "mcShopcart": {
       "email": "mail@vincentmartinat.com"
     }
@@ -362,7 +362,7 @@
             "overlayOpacity": 0.6
           },
           "title": "",
-          "title2": "<br><br>La prochaine vague de formation démarre bientôt !",
+          "title2": "<br><br>La prochaine vague de formation <br><br><br><i>démarre bientôt !</i>",
           "text": "Être Sauveteur en Mer, c’est un engagement fort au service de la sauvegarde des vies humaines en mer et sur le littoral. <br>Depuis plus d’un siècle, les Sauveteurs en Mer interviennent pour que la mer reste un formidable espace de liberté.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
           "media": {
@@ -370,7 +370,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/logo-snsm-179x180.png",
-              "link": "index.html#extFeatures13-f",
+              "link": "index.html#extHeader15-i",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -908,13 +908,15 @@
           },
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "",
+              "linkInNewWindow": false,
               "name": "facebook",
-              "link": "https://mobirise.com",
+              "family": "socicon",
+              "active": true,
+              "link": "https://www.facebook.com/cfibayonne/",
               "size": 0,
               "color": "#ffffff",
-              "family": "socicon"
+              "newWindow": false
             }
           },
           "media4": {
@@ -1163,10 +1165,12 @@
               "active": true,
               "class": "",
               "name": "facebook",
-              "link": "https://mobirise.com",
+              "link": "https://www.facebook.com/cfibayonne/",
               "size": 0,
               "color": "#ffffff",
-              "family": "socicon"
+              "family": "socicon",
+              "linkInNewWindow": false,
+              "newWindow": false
             }
           },
           "media4": {
