@@ -677,7 +677,7 @@
             }
           },
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "0",
             "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/19042015-img-2000x1333.jpg",
@@ -688,7 +688,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "text": "Suivez nous sur :",
+          "text": "<br>ACTUALITES<br><br>Suivez nous sur :<br>",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/cfibayonne/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         ",
           "_tags": [
             "Theme"
