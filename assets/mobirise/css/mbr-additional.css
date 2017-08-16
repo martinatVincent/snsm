@@ -772,6 +772,12 @@ h6,
 #extMenu1-m SPAN {
   color: #ffffff;
 }
+#extForm3-13 P {
+  color: #000000;
+}
+#extForm3-13 .intro-box h5 {
+  color: #000000;
+}
 #extMenu1-x .hide-buttons .nav-btn {
   display: none !important;
 }

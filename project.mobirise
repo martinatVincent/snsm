@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 36,
+    "uniqCompNum": 40,
     "versionPublish": "4.1.2",
     "favicon": "",
     "noImageResize": "",
@@ -701,7 +701,7 @@
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
-            "postToLoad": 3,
+            "postToLoad": "7",
             "facebook": "https://www.facebook.com/cfibayonne/",
             "twitter": "",
             "google": "",
@@ -762,7 +762,7 @@
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#ff6600",
+            "bgColor": "#56a8f7",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
@@ -771,17 +771,17 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><li><a href=\"\">+33681402407</a></li><li><a href=\"https://www.google.fr/maps/place/Snsm+Cfi+Landes+C%C3%B4te-Basque/@43.512916,-1.4972004,15z/data=!4m5!3m4!1s0x0:0xc4237d2e5207dd0b!8m2!3d43.512916!4d-1.4972004\">&nbsp;12 Avenue de l'adour 64600 ANGLET</a></li></ul>",
-          "title": "SNSM CFI Côte Basque Landes&nbsp;",
+          "list": "<ul><li><a href=\"https://vincentmartinat.com/\" target=\"_blank\">https://vincentmartinat.com/</a></li></ul>",
+          "title": "&nbsp; Créé par&nbsp;<a href=\"https://vincentmartinat.com/\" target=\"_blank\">Vincent Martinat</a>&nbsp;",
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-snsm-179x180.png",
-              "link": "#top",
+              "src": "@PROJECT_PATH@/assets/images/vincent-carte-visite-1-496x333.jpg",
+              "link": "https://vincentmartinat.com/",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
@@ -983,18 +983,92 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showContacts": true,
+            "showSubtitle": true,
+            "showText": true,
+            "showIcons": true,
+            "showForm": true,
+            "inverse": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "googleMap": {
               "address": "snsm 12, Avenue de l'Adour\n64600 Anglet",
               "placeId": "ChIJ3yHt5ktAUQ0RC90HUi59I8Q",
               "state": "ok",
               "stateDetails": ""
+            },
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extForm1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ff6600",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1,
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-info-outline btn-info\">FAIRE UN DON</a>"
+          },
+          "title": "Laissez votre message",
+          "title1": "N'hésitez pas à nous contacter",
+          "subTitle1": "Envoyez vos demandes de cooperation",
+          "text1": "Phone: +33 (0) 6 81 40 24 07&nbsp;<br> Email: snsm.cfibayonne@gmail.com",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Envoyez</a>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-form1",
+              "name": "envelope",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
             }
           },
+          "form": {
+            "action": "snsm.cfibayonne@gmail.com",
+            "alerts": {
+              "success": "merci, on reviens très vite vers vous !"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nom*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Tel*"
+              },
+              "message": {
+                "visible": true,
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "map1",
-          "_anchor": "map1-p"
+          "_name": "extForm3",
+          "_anchor": "extForm3-13",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            ".intro-box h5": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
@@ -1016,7 +1090,7 @@
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#ff6600",
+            "bgColor": "#56a8f7",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
@@ -1025,17 +1099,17 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul><li><a href=\"\">+33681402407</a></li><li><a href=\"https://www.google.fr/maps/place/Snsm+Cfi+Landes+C%C3%B4te-Basque/@43.512916,-1.4972004,15z/data=!4m5!3m4!1s0x0:0xc4237d2e5207dd0b!8m2!3d43.512916!4d-1.4972004\">&nbsp;12 Avenue de l'adour 64600 ANGLET</a></li></ul>",
-          "title": "SNSM CFI Côte Basque Landes&nbsp;",
+          "list": "<ul><li><a href=\"https://vincentmartinat.com/\" target=\"_blank\">https://vincentmartinat.com/</a></li></ul>",
+          "title": "&nbsp; Créé par&nbsp;<a href=\"https://vincentmartinat.com/\" target=\"_blank\">Vincent Martinat</a>&nbsp;",
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-snsm-179x180.png",
-              "link": "#top",
+              "src": "@PROJECT_PATH@/assets/images/vincent-carte-visite-1-496x333.jpg",
+              "link": "https://vincentmartinat.com/",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
