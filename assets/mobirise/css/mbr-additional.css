@@ -675,18 +675,20 @@ h6,
 .theme-border {
   border: 1px solid #1e90ff;
 }
-#extHeader5-v LABEL {
-  color: #1e90ff;
+#extHeader13-18 H3 {
+  color: #ffffff;
+}
+#extHeader13-18 H4 {
+  color: #fac51c;
+}
+#extHeader13-18 P {
+  color: #ff6600;
 }
 #extCounters2-o SPAN {
   color: #ff6600;
 }
 #features1-a .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #a38f84;
-}
-#extHeader15-i .display-2 {
-  color: #56a8f7;
-  font-size: 60px;
 }
 #extFeatures13-f .etl-icon {
   color: #cccccc;

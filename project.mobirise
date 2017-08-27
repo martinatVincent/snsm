@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 40,
+    "uniqCompNum": 45,
     "versionPublish": "4.1.6",
     "favicon": "",
     "noImageResize": "",
@@ -54,58 +54,127 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "showVideo": true,
-            "VideoUrl": "https://www.youtube.com/watch?v=CxZklI97Q7k",
+            "showText": true,
+            "inverse": true,
             "showArrow": true,
-            "bgImageRadio": true,
+            "showFormTitle": true,
+            "countdown": "2017/10/10",
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/19042015-img-4-2000x1333.jpg",
-            "parallax": false,
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/rXxgwHLHVaw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/embed/rXxgwHLHVaw",
+              "width": 1280,
+              "height": 720
             },
             "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.4
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
           },
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/play-button.svg",
-              "link": "https://www.youtube.com/watch?v=CxZklI97Q7k",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+          "title": "La prochaine vague de formation \n<div>\n</div><div>\n</div><div>démarre bientôt !</div>",
+          "title2": "Veux tu devenir sauveteur cet été 2018 ?",
+          "text": "Être Sauveteur en Mer, c’est un engagement fort au service de la sauvegarde des vies humaines en mer et sur le littoral. \n<br>Depuis plus d’un siècle, les Sauveteurs en Mer interviennent pour que la mer reste un formidable espace de liberté.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVOYER</a>",
+          "form": {
+            "action": "offres@vincentmartinat.com",
+            "alerts": {
+              "success": "Merci, on vous recontacte promis"
             },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "youtube-play",
-              "family": "FontAwesome",
-              "link": "#modalWindow",
-              "size": 0,
-              "color": "#1e90ff",
-              "active": true
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nom*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "visible": true,
+                "title": "Message",
+                "customTitle": "Message"
+              }
             }
           },
-          "title": "Bienvenue !<br>une petite vidéo d'intro",
-          "text": "Full-screen intro with background image and video popup. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "text2": "<label class=\"startPreset\" for=\"modal\">Regarde la Video</label>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#extCounters2-o\" data-toolbar=\"-mbrBtnMove\">en savoir plus</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
-          "_name": "extHeader5",
-          "_anchor": "extHeader5-v",
+          "_name": "extHeader13",
+          "_anchor": "extHeader13-18",
           "_styles": {
-            "LABEL": {
-              "color": "#1e90ff"
+            "H3": {
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#fac51c"
+            },
+            "P": {
+              "color": "#ff6600"
             }
           }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=CxZklI97Q7k",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Bienvenue !\n<div>une petite vidéo de description du programme</div>",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#extFeatures13-f\" data-toolbar=\"-mbrBtnMove\">Voir le programme</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://goo.gl/PYLV2X\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Télécharge le dossier</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-16"
         },
         {
           "_params": {
@@ -328,89 +397,6 @@
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#a38f84"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showLogo": true,
-            "showTitle": true,
-            "showText": true,
-            "showCountdown": true,
-            "showForm": false,
-            "showArrow": true,
-            "imageSize": 20,
-            "countdown": "2017/09/25",
-            "animText1": "Solidarité",
-            "animText2": "Bravoure",
-            "animText3": "Dévouement",
-            "typeSpeed": 60,
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader15_bg.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/rXxgwHLHVaw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/embed/rXxgwHLHVaw?rel=0&showinfo=0&autoplay=0&loop=0",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.6
-          },
-          "title": "",
-          "title2": "<br><br>La prochaine vague de formation <br><br><br><i>démarre bientôt !</i>",
-          "text": "Être Sauveteur en Mer, c’est un engagement fort au service de la sauvegarde des vies humaines en mer et sur le littoral. <br>Depuis plus d’un siècle, les Sauveteurs en Mer interviennent pour que la mer reste un formidable espace de liberté.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-snsm-179x180.png",
-              "link": "index.html#extHeader15-i",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "pencil",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "et-line"
-            }
-          },
-          "form": {
-            "action": "offres@vincentmartinat.com",
-            "alerts": {
-              "success": "Merci, on vous tient au courant !"
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "Enter votre Email"
-              }
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader15",
-          "_anchor": "extHeader15-i",
-          "_styles": {
-            ".display-2": {
-              "color": "#56a8f7",
-              "font-size": "60px"
             }
           }
         },
@@ -658,7 +644,7 @@
               "size": 250
             }
           },
-          "title": "Dessine-moi un Sauveteur côtier !&nbsp;",
+          "title": "Dessine-moi un été : Sauveteur côtier !&nbsp;",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "_tags": [
             "Theme"
@@ -688,7 +674,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "text": "<br>ACTUALITES<br><br>Suivez nous sur :<br>",
+          "text": "<br>ACTUALITES FACEBOOK<br><br>Suivez nous sur :<br>",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/cfibayonne/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         ",
           "_tags": [
             "Theme"
