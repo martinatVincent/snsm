@@ -682,7 +682,7 @@ h6,
   color: #fac51c;
 }
 #extHeader13-18 P {
-  color: #ff6600;
+  color: #f9c19d;
 }
 #extCounters2-o SPAN {
   color: #ff6600;
@@ -705,6 +705,9 @@ h6,
 }
 #social-buttons1-h .mbr-section-title {
   color: #ffffff;
+}
+#extFooter1-g .mbr-section-title {
+  font-size: 30px;
 }
 #extMenu1-m .hide-buttons .nav-btn {
   display: none !important;
@@ -779,6 +782,9 @@ h6,
 }
 #extForm3-13 .intro-box h5 {
   color: #000000;
+}
+#extFooter1-w .mbr-section-title {
+  font-size: 30px;
 }
 #extMenu1-x .hide-buttons .nav-btn {
   display: none !important;

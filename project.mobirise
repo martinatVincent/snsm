@@ -26,7 +26,8 @@
         "#2e2e2e",
         "#56a8f7",
         "#ffed22",
-        "#666666"
+        "#666666",
+        "#f9c19d"
       ]
     },
     "versionFirst": "3.12.1",
@@ -122,7 +123,7 @@
               "color": "#fac51c"
             },
             "P": {
-              "color": "#ff6600"
+              "color": "#f9c19d"
             }
           }
         },
@@ -780,7 +781,12 @@
             "Extension"
           ],
           "_name": "extFooter1",
-          "_anchor": "extFooter1-g"
+          "_anchor": "extFooter1-g",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          }
         },
         {
           "_styles": {
@@ -1108,7 +1114,12 @@
             "Extension"
           ],
           "_name": "extFooter1",
-          "_anchor": "extFooter1-w"
+          "_anchor": "extFooter1-w",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          }
         },
         {
           "_styles": {
