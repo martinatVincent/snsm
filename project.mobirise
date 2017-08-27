@@ -156,7 +156,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=CxZklI97Q7k",
+              "src": "https://youtu.be/MBB6ozME4rA",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": "on"
@@ -167,7 +167,7 @@
               "size": 250
             }
           },
-          "title": "Bienvenue !\n<div>une petite vidéo de description du programme</div>",
+          "title": "Bienvenue !\n<div>vidéo de description du programme</div>",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "_tags": [
             "Theme"
