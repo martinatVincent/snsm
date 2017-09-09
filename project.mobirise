@@ -32,7 +32,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 45,
-    "versionPublish": "4.1.6",
+    "versionPublish": "4.2.4",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
@@ -439,10 +439,10 @@
           "title11": "11. Design out of the box",
           "title12": "12. Awesome Reports",
           "date1": "9-10 Septembre 2017",
-          "date2": "2 Janvier 2018",
-          "date3": "3 Mars 2018",
-          "date4": "4 Avril 2018",
-          "date5": "5 Mai 2018",
+          "date2": "Octobre - Novembre 2018",
+          "date3": "Janvier &nbsp;2018",
+          "date4": "Octobre - Mai 2018",
+          "date5": "Octobre 2018",
           "date6": "6 Mai 2018",
           "date7": "7 Mai 2018",
           "date8": "8 August 2016",
@@ -857,7 +857,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-13\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#extFeatures13-f\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>SE FORMER POUR SAUVER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=DONS&amp;currency_code=EUR\"><span class=\"mbri-features mbr-iconfont mbr-iconfont-btn\"></span>FAIRE UN DON</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://laboutique.snsm.org/?_ga=2.191382831.422401927.1504961289-1159119782.1504961289\" target=\"_blank\">BOUTIQUE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-13\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#extFeatures13-f\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>SE FORMER POUR SAUVER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=DONS&amp;currency_code=EUR\"><span class=\"mbri-features mbr-iconfont mbr-iconfont-btn\"></span>FAIRE UN DON</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1190,7 +1190,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-13\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#extFeatures13-f\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>SE FORMER POUR SAUVER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=DONS&amp;currency_code=EUR\"><span class=\"mbri-features mbr-iconfont mbr-iconfont-btn\"></span>FAIRE UN DON</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://laboutique.snsm.org/?_ga=2.191382831.422401927.1504961289-1159119782.1504961289\" target=\"_blank\">BOUTIQUE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-13\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#extFeatures13-f\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>SE FORMER POUR SAUVER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=DONS&amp;currency_code=EUR\"><span class=\"mbri-features mbr-iconfont mbr-iconfont-btn\"></span>FAIRE UN DON</a></li>",
           "logo": {
             "image": {
               "active": true,
