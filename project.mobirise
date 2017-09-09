@@ -100,7 +100,7 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone*"
+                "customTitle": "Phone"
               },
               "message": {
                 "visible": true,
@@ -315,7 +315,7 @@
               "link": "https://www.youtube.com/watch?v=AYrKXGHu0T0",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             }
           },
           "media2": {
